@@ -1,7 +1,7 @@
-Weather-App
+## Weather-App
 
-add config.py for the api key or you can remove the + config.appid + and the import config appid = "{api}"
+#### add config.py for the api key or you can remove the + config.appid + and the import config appid = "{api}"
 
-example
+### example
 
-"&units=metric&appid=" + config.appid + "" or "&units=metric&appid={api}"__
+#### "&units=metric&appid=" + config.appid + "" or "&units=metric&appid={api}"__
